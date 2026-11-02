@@ -23,3 +23,18 @@ Python | Backend | Artificial Intelligence
 - 🐍 Learning Python and Backend Development
 - 💡 Building practical projects and exploring new technologies
 - 🎯 Goal: Become an Agentic AI Engineer
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode" />
+</p>
+
+### 📚 Currently Learning
+
+- Python Development
+- REST APIs
+- FastAPI
+- SQL
+- Agentic AI
