@@ -16,3 +16,10 @@ Python | Backend | Artificial Intelligence
 <a href="assets/resume.pdf" download>
   <img src="https://img.shields.io/badge/Download-My_Resume-blue?style=for-the-badge&logo=adobeacrobatreader">
 </a>
+### 🚀 About Me
+
+- 🎓 Computer Science Diploma Student
+- 🤖 Interested in Agentic AI and AI Automation
+- 🐍 Learning Python and Backend Development
+- 💡 Building practical projects and exploring new technologies
+- 🎯 Goal: Become an Agentic AI Engineer
