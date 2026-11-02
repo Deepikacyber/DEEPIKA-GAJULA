@@ -38,3 +38,8 @@ Python | Backend | Artificial Intelligence
 - FastAPI
 - SQL
 - Agentic AI
+  <h3 align="center">🛠️ My Tech Stack</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode" />
+</p>
