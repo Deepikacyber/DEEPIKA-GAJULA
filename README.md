@@ -42,6 +42,27 @@ Python | Backend | Artificial Intelligence
 </p>
   
  <h2 align="center">🔥 Contribution Streak</h2>
+ <h2 align="center">🚀 Featured Projects</h2>
+
+<table align="center">
+<tr>
+<td width="50%">
+<h3 align="center">🤖 Agentic AI Assistant</h3>
+<p align="center">
+An intelligent assistant designed to perform tasks using AI tools.
+</p>
+<p align="center"><b>Status:</b> Coming Soon</p>
+</td>
+
+<td width="50%">
+<h3 align="center">⚡ Python Automation</h3>
+<p align="center">
+A collection of Python projects focused on automation.
+</p>
+<p align="center"><b>Status:</b> In Progress</p>
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
@@ -49,3 +70,4 @@ Python | Backend | Artificial Intelligence
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DEEPIKA GAJULA&label=Profile+Views&color=00D9FF&style=for-the-badge" />
 </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7B2FF7&height=120&section=footer"/>
