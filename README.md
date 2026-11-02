@@ -38,4 +38,8 @@ Python | Backend | Artificial Intelligence
 - FastAPI
 - SQL
 - Agentic AI
- 
+ <h2 align="center">🔥 Contribution Streak</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
