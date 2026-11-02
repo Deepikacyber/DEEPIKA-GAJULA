@@ -38,14 +38,4 @@ Python | Backend | Artificial Intelligence
 - FastAPI
 - SQL
 - Agentic AI
-  <h3 align="center">🛠️ My Tech Stack</h3>
-
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+ 
