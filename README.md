@@ -71,3 +71,4 @@ A collection of Python projects focused on automation.
   <img src="https://komarev.com/ghpvc/?username=DEEPIKA GAJULA&label=Profile+Views&color=00D9FF&style=for-the-badge" />
 </p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7B2FF7&height=120&section=footer"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&border_color=00FFFF" />
