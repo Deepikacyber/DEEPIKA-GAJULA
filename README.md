@@ -43,3 +43,6 @@ Python | Backend | Artificial Intelligence
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DEEPIKA GAJULA&label=Profile+Views&color=00D9FF&style=for-the-badge" />
+</p>
