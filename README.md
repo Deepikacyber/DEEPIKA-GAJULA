@@ -75,3 +75,4 @@ A collection of Python projects focused on automation.
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=800&color=00FFFF&center=true&vCenter=true&width=650&lines=AGENTIC+AI+ENGINEER+IN+PROGRESS;BUILDING+THE+FUTURE+WITH+AI;PYTHON+%7C+AUTOMATION+%7C+AI" />
 </p>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&background=000000&ring=00FFFF&fire=9D4EDD&currStreakLabel=00FFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&hide_border=true" />
