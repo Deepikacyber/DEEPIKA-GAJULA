@@ -37,7 +37,10 @@ Python | Backend | Artificial Intelligence
 - REST APIs
 - FastAPI
 - SQL
-- Agentic AI
+- Agentic AI<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Aspiring+Agentic+AI+Engineer;Python+Developer;Building+Intelligent+AI+Projects;Learning+%26+Creating+Every+Day" />
+</p>
+  
  <h2 align="center">🔥 Contribution Streak</h2>
 
 <p align="center">
